@@ -2,4 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
 pc2020_DE_NUTS-2021_v3.0.zip
+pc2020_DE_NUTS-2021_v3.0.csv
+PLZviaNUTStoAGS.Rproj
+EU-28-LAU-2019-MNUTS-2016.xlsx
